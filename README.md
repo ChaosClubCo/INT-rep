@@ -12,8 +12,20 @@ This repository is currently in the planning and setup phase. A comprehensive au
 
 ## 📋 Documentation
 
+### Start Here
+- **[GETTING_STARTED.md](./GETTING_STARTED.md)** - 👈 **Start here!** Quick guide to understanding the repository and next steps
+- **[SUMMARY.md](./SUMMARY.md)** - Executive summary of audit and PRD work
+
+### Core Documents
 - **[AUDIT.md](./AUDIT.md)** - Comprehensive repository audit identifying current state and improvement areas
 - **[PRD.md](./PRD.md)** - Full Product Requirements Document with technical specifications, user stories, and roadmap
+
+### Essential Documentation
+- **[CONTRIBUTING.md](./CONTRIBUTING.md)** - How to contribute
+- **[CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md)** - Community standards
+- **[SECURITY.md](./SECURITY.md)** - Security policy
+- **[CHANGELOG.md](./CHANGELOG.md)** - Version history
+- **[LICENSE](./LICENSE)** - MIT License
 
 ## 🎯 Project Goals
 
